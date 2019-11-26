@@ -1,0 +1,9 @@
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\04Kadai.exe.config
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\04Kadai.exe
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\04Kadai.pdb
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\FK_Audio.dll
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\FK_CLI.dll
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\bin\x86\Debug\FK_FormHelper.dll
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\obj\x86\Debug\4_1Kadai.csproj.CopyComplete
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\obj\x86\Debug\04Kadai.exe
+G:\TUT\三年後期\ゲームプログラミング論\04\04Kadai\04Kadai\obj\x86\Debug\04Kadai.pdb
